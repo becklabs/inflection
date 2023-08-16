@@ -1,0 +1,8 @@
+.DS_Store
+chroma/
+env/
+.env
+__pycache__/
+decoding/
+training_checkpoints/
+ipynb_checkpoints/
